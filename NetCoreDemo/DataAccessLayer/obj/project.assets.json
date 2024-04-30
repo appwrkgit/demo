@@ -2012,11 +2012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\APPWRK LAP-63\\Documents\\UserLoginAndRegister\\NetCoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectPath": "C:\\Users\\APPWRK LAP-63\\Documents\\UserLoginAndRegister\\NetCoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\APPWRK LAP-63\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\DataAccessLayer\\obj\\",
+      "outputPath": "C:\\Users\\APPWRK LAP-63\\Documents\\UserLoginAndRegister\\NetCoreDemo\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\APPWRK LAP-63\\AppData\\Roaming\\NuGet\\NuGet.Config",

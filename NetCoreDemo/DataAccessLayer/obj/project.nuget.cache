@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xF3sLA+vS37l3A65VNtTuboL1ROV6kUoXe0jIpEK0KKS9nLTTVylgmzRTh8p/8dq7eaKIxqLxPnYynFnAorqnA==",
+  "dgSpecHash": "MRth8SsjXmMwXUIW1u5YgZD0/XoToxHlCYnkDj0lqOKMltvZaD7Mp0wJ2mFT+HdmelDV/xXmNN5NK1OTpMAvpw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\APPWRK LAP-63\\Documents\\UserLoginAndRegister\\NetCoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\APPWRK LAP-63\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\APPWRK LAP-63\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

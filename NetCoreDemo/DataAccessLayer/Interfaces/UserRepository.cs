@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static DataAccessLayer.Utilities.Utility;
 
 namespace DataAccessLayer.Interfaces
 {
@@ -27,7 +28,9 @@ namespace DataAccessLayer.Interfaces
         {
             try
             {
-                return await _dbContext.Users.FindAsync(id);
+                User user = await _dbContext.Users.FindAsync(id);
+                user.Password = EncodePassword(user.Password);
+                return user;
             }
             catch
             {
@@ -44,7 +47,7 @@ namespace DataAccessLayer.Interfaces
         {
             try
             {
-                return _dbContext.Users.First(x => x.Email == user.Email && x.Password==user.Password);
+                return _dbContext.Users.First(x => x.Email == user.Email && x.Password == EncodePassword(user.Password));
             }
             catch
             {
@@ -77,6 +80,7 @@ namespace DataAccessLayer.Interfaces
         {
             try
             {
+                user.Password = EncodePassword(user.Password);
                 await _dbContext.Users.AddAsync(user);
                 await _dbContext.SaveChangesAsync();
                 return true;

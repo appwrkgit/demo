@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3it87C3dL3FucFD6MHIIDmXFpFSdA3WA9c5DENQsj2TAQB3dZ0FGBd7Cjj3GmNSnOA9pZ9a5jS+MMA+FX8JWxQ==",
+  "dgSpecHash": "iSAOZXprpYBpR4VfJ3LV5va9CjkxE78UrD37tXV/6YqyI3StcLd9QGWTOuL3GLUAUi99vjjUR0Lf7VTGQOFxkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+  "projectFilePath": "C:\\Users\\APPWRK LAP-63\\Documents\\UserLoginAndRegister\\NetCoreDemo\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\APPWRK LAP-63\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\APPWRK LAP-63\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
