@@ -38,7 +38,7 @@ export const loginUser = async (data) => {
         console.log(result, "12")
         return {
             status: true,
-            data: result?.data?.data
+            data: result?.data
         }
     } catch (error) {
         return {
@@ -50,24 +50,24 @@ export const loginUser = async (data) => {
 }
 
 
-/**
- * 
- * @method GET
- * @returns {Promise<{status: boolean, error: *}|{status: boolean, body: *}>}
- * @comment Create the user.
- */
-export const getUser = async () => {
-    try {
-        const result = await axios.get(ApiUrls.REGISTER);
-        return {
-            status: true,
-            data: result?.data?.data
-        }
-    } catch (error) {
-        return {
-            status: false,
-            error: error?.response?.data?.message
+// /**
+//  * 
+//  * @method GET
+//  * @returns {Promise<{status: boolean, error: *}|{status: boolean, body: *}>}
+//  * @comment Create the user.
+//  */
+// export const getUser = async () => {
+//     try {
+//         const result = await axios.get(ApiUrls.REGISTER);
+//         return {
+//             status: true,
+//             data: result?.data?.data
+//         }
+//     } catch (error) {
+//         return {
+//             status: false,
+//             error: error?.response?.data?.message
 
-        }
-    }
-}
+//         }
+//     }
+// }

@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\APPWRK LAP-63\\Documents\\UserLoginAndRegister\\NetCoreDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C0DAC90-47D0-4FE4-B0BD-1B7AB7CA1C0B}|UserAPI\\UserAPI.csproj|c:\\users\\appwrk lap-63\\documents\\userloginandregister\\netcoredemo\\userapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8C0DAC90-47D0-4FE4-B0BD-1B7AB7CA1C0B}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8C0DAC90-47D0-4FE4-B0BD-1B7AB7CA1C0B}|UserAPI\\UserAPI.csproj|c:\\users\\appwrk lap-63\\documents\\userloginandregister\\netcoredemo\\userapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0DAC90-47D0-4FE4-B0BD-1B7AB7CA1C0B}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0192830F-8DEA-411D-8447-A825F0A77300}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\appwrk lap-63\\documents\\userloginandregister\\netcoredemo\\dataaccesslayer\\interfaces\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0192830F-8DEA-411D-8447-A825F0A77300}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\interfaces\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0192830F-8DEA-411D-8447-A825F0A77300}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\appwrk lap-63\\documents\\userloginandregister\\netcoredemo\\dataaccesslayer\\utilities\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0192830F-8DEA-411D-8447-A825F0A77300}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\utilities\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C0DAC90-47D0-4FE4-B0BD-1B7AB7CA1C0B}|UserAPI\\UserAPI.csproj|c:\\users\\appwrk lap-63\\documents\\userloginandregister\\netcoredemo\\userapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C0DAC90-47D0-4FE4-B0BD-1B7AB7CA1C0B}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0DAC90-47D0-4FE4-B0BD-1B7AB7CA1C0B}|UserAPI\\UserAPI.csproj|c:\\users\\appwrk lap-63\\documents\\userloginandregister\\netcoredemo\\userapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C0DAC90-47D0-4FE4-B0BD-1B7AB7CA1C0B}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C0DAC90-47D0-4FE4-B0BD-1B7AB7CA1C0B}|UserAPI\\UserAPI.csproj|c:\\users\\appwrk lap-63\\documents\\userloginandregister\\netcoredemo\\userapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8C0DAC90-47D0-4FE4-B0BD-1B7AB7CA1C0B}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C0DAC90-47D0-4FE4-B0BD-1B7AB7CA1C0B}|UserAPI\\UserAPI.csproj|c:\\users\\appwrk lap-63\\documents\\userloginandregister\\netcoredemo\\userapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C0DAC90-47D0-4FE4-B0BD-1B7AB7CA1C0B}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0192830F-8DEA-411D-8447-A825F0A77300}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\appwrk lap-63\\documents\\userloginandregister\\netcoredemo\\dataaccesslayer\\utilities\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0192830F-8DEA-411D-8447-A825F0A77300}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\utilities\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0192830F-8DEA-411D-8447-A825F0A77300}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\appwrk lap-63\\documents\\userloginandregister\\netcoredemo\\dataaccesslayer\\entities\\userloginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,32 +70,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserLoginRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\APPWRK LAP-63\\Documents\\UserLoginAndRegister\\NetCoreDemo\\DataAccessLayer\\Entities\\UserLoginRequestDto.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\UserLoginRequestDto.cs",
-              "ToolTip": "C:\\Users\\APPWRK LAP-63\\Documents\\UserLoginAndRegister\\NetCoreDemo\\DataAccessLayer\\Entities\\UserLoginRequestDto.cs",
-              "RelativeToolTip": "DataAccessLayer\\Entities\\UserLoginRequestDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T09:33:57.019Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\APPWRK LAP-63\\Documents\\UserLoginAndRegister\\NetCoreDemo\\BusinessLogicLayer\\UserService.cs",
-              "RelativeDocumentMoniker": "BusinessLogicLayer\\UserService.cs",
-              "ToolTip": "C:\\Users\\APPWRK LAP-63\\Documents\\UserLoginAndRegister\\NetCoreDemo\\BusinessLogicLayer\\UserService.cs",
-              "RelativeToolTip": "BusinessLogicLayer\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBUAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T05:20:51.965Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -106,7 +82,8 @@
               "RelativeToolTip": "UserAPI\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-29T07:33:02.381Z"
+              "WhenOpened": "2024-04-29T07:33:02.381Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -116,39 +93,40 @@
               "RelativeDocumentMoniker": "DataAccessLayer\\Interfaces\\UserRepository.cs",
               "ToolTip": "C:\\Users\\APPWRK LAP-63\\Documents\\UserLoginAndRegister\\NetCoreDemo\\DataAccessLayer\\Interfaces\\UserRepository.cs",
               "RelativeToolTip": "DataAccessLayer\\Interfaces\\UserRepository.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAkwFoAAAANAAAA",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwFMAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T05:24:03.231Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\APPWRK LAP-63\\Documents\\UserLoginAndRegister\\NetCoreDemo\\UserAPI\\appsettings.json",
               "RelativeDocumentMoniker": "UserAPI\\appsettings.json",
               "ToolTip": "C:\\Users\\APPWRK LAP-63\\Documents\\UserLoginAndRegister\\NetCoreDemo\\UserAPI\\appsettings.json",
               "RelativeToolTip": "UserAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-04-29T05:55:06.031Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\APPWRK LAP-63\\Documents\\UserLoginAndRegister\\NetCoreDemo\\UserAPI\\Program.cs",
               "RelativeDocumentMoniker": "UserAPI\\Program.cs",
               "ToolTip": "C:\\Users\\APPWRK LAP-63\\Documents\\UserLoginAndRegister\\NetCoreDemo\\UserAPI\\Program.cs",
               "RelativeToolTip": "UserAPI\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAAAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T05:35:27.149Z"
+              "WhenOpened": "2024-04-29T05:35:27.149Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Utility.cs",
               "DocumentMoniker": "C:\\Users\\APPWRK LAP-63\\Documents\\UserLoginAndRegister\\NetCoreDemo\\DataAccessLayer\\Utilities\\Utility.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Utilities\\Utility.cs",
@@ -184,15 +162,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\APPWRK LAP-63\\Documents\\UserLoginAndRegister\\NetCoreDemo\\UserAPI\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "UserAPI\\Controllers\\LoginController.cs",
               "ToolTip": "C:\\Users\\APPWRK LAP-63\\Documents\\UserLoginAndRegister\\NetCoreDemo\\UserAPI\\Controllers\\LoginController.cs",
               "RelativeToolTip": "UserAPI\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAA1wAsAAAAVAAAA",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAwEEAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T07:38:16.313Z"
+              "WhenOpened": "2024-04-29T07:38:16.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\APPWRK LAP-63\\Documents\\UserLoginAndRegister\\NetCoreDemo\\BusinessLogicLayer\\UserService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\UserService.cs",
+              "ToolTip": "C:\\Users\\APPWRK LAP-63\\Documents\\UserLoginAndRegister\\NetCoreDemo\\BusinessLogicLayer\\UserService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T05:20:51.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserLoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\APPWRK LAP-63\\Documents\\UserLoginAndRegister\\NetCoreDemo\\DataAccessLayer\\Entities\\UserLoginRequestDto.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\UserLoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\APPWRK LAP-63\\Documents\\UserLoginAndRegister\\NetCoreDemo\\DataAccessLayer\\Entities\\UserLoginRequestDto.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\UserLoginRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:33:57.019Z"
             },
             {
               "$type": "Document",

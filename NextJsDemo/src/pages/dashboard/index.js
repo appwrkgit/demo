@@ -1,22 +1,28 @@
+"client"
+
 import { getUser } from '@/Services/user.service';
 import Header from '@/components/header/Header'
+import { useAuth } from '@/hooks/useAuth';
 import React, { useEffect, useState } from 'react'
+import toast from 'react-hot-toast';
 
-const Dashboard = () => {
-    const [userdata, setUserData] = useState();
+const Dashboard = () => {    
+    const { auth } = useAuth();
+    const userData = auth?.user;
+    console.log(auth?.user)
 
-    const getUserData = async () => {
-        const result = await getUser();
-        if (result.status) {
-            setUserData(result?.data)
-        } else {
-            toast.error(result.error);
-        }
-    }
+    // const getUserData = async () => {
+    //     const result = await getUser();
+    //     if (result.status) {
+    //         setUserData(result?.data)
+    //     } else {
+    //         toast.error(result.error);
+    //     }
+    // }
 
-    useEffect(() => {
-        getUserData()
-    }, []);
+    // useEffect(() => {
+    //     getUserData()
+    // }, []);
 
 
     return (
@@ -38,16 +44,12 @@ const Dashboard = () => {
                                 <table className="text-xs my-3">
                                     <tbody>
                                         <tr>
-                                            <td className="px-2 py-2 text-gray-500 font-semibold">Name</td>
-                                            <td className="px-2 py-2">Chatakpur-3, Dhangadhi Kailali</td>
+                                            <td className="px-2 py-2 text-gray-900 font-bold">Name:</td>
+                                            <td className="px-2 py-2 font-bold">{userData?.firstName + " " + userData?.lastName }</td>
                                         </tr>
                                         <tr>
-                                            <td className="px-2 py-2 text-gray-500 font-semibold">Phone</td>
-                                            <td className="px-2 py-2">+977 9955221114</td>
-                                        </tr>
-                                        <tr>
-                                            <td className="px-2 py-2 text-gray-500 font-semibold">Email</td>
-                                            <td className="px-2 py-2">john@exmaple.com</td>
+                                            <td className="px-2 py-2 text-gray-900 font-bold">Email:</td>
+                                            <td className="px-2 py-2 font-bold">{userData?.email}</td>
                                         </tr>
                                     </tbody>
                                 </table>

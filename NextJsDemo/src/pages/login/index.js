@@ -18,10 +18,8 @@ const Login = () => {
     const onSubmit = async (data) => {
         const result = await loginUser(data);
         if (result.status) {
-            const access_token = result?.data?.access_token;
-            const refresh_token = result?.data?.refresh_token;
+            const access_token = result?.data?.token;
             localStorage.setItem("access_token", access_token);
-            localStorage.setItem("refresh_token", refresh_token);
             toast.success("User login successfully");
             setAuth({ ...auth, isLoggedIn: true });
             router.push('/dashboard');

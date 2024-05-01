@@ -62,8 +62,8 @@ namespace UserAPI.Controllers
                 var claims = new List<Claim> 
                 { 
                     new(JwtRegisteredClaimNames.Email, user.Email),
-                    new(JwtRegisteredClaimNames.Name, user.FirstName),
-                    new(JwtRegisteredClaimNames.FamilyName, user.LastName),
+                    new("firstName", user.FirstName),
+                    new("lastName", user.LastName),
                 };
 
                 var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["Jwt:Key"]));
